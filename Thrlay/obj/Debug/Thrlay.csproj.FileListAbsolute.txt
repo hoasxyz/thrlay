@@ -1,0 +1,13 @@
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\bin\Debug\Thrlay.exe.config
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\bin\Debug\Thrlay.exe
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\bin\Debug\Thrlay.pdb
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\bin\Debug\EPPlus.dll
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\bin\Debug\EPPlus.xml
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\obj\Debug\Thrlay.csprojAssemblyReference.cache
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\obj\Debug\Thrlay.Form1.resources
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\obj\Debug\Thrlay.Properties.Resources.resources
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\obj\Debug\Thrlay.csproj.GenerateResource.cache
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\obj\Debug\Thrlay.csproj.CoreCompileInputs.cache
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\obj\Debug\Thrlay.csproj.CopyComplete
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\obj\Debug\Thrlay.exe
+E:\!大学\大三下\C#\作业\Thrlay\Thrlay\obj\Debug\Thrlay.pdb
